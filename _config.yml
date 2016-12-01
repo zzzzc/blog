@@ -4,7 +4,6 @@
 
 # Site
 title: zc's blog
-subtitle: 什么都无法长久，即便是烦恼
 description:
 author: zzzzc
 language: zh-cn
@@ -63,7 +62,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: tranquilpeak
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
