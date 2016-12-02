@@ -2,7 +2,6 @@ title: 使用Redux构造RESTful风格的Actions
 date: 2016/12/1
 ---
 
-## 起因
 用redux管理前端数据流总是要根据业务逻辑定义许多actions，通常这些actions的数据操作并不复杂，无非是更新一个字段或者向数组中插入/删除一个元素，构造一套统一标准的actions可以减少工作量和复杂度。RESTful风格的actions简洁明了，并可以实现大部分资源修改需求。
 
 ## 目标功能
