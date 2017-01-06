@@ -24,7 +24,7 @@ export default class SaleHouseItem extends React.Component {
 
 子类代码如下：
 
-```
+```js
 export default class RentHouseItem extends SaleHouseItem{
   _getHouseName(props,config){
     return [
@@ -39,7 +39,7 @@ export default class RentHouseItem extends SaleHouseItem{
 }
 ```
 
-以上代码在IE10及以下会出现不可描述的效果。debugger之后发现是SaleHouseItem.contextTypes没有被继承到RentHouseItem里。
+以上代码在IE10及以下会出现不可描述的效果。debug之后发现是SaleHouseItem.contextTypes没有被继承到RentHouseItem里。
 
 ## ES6类的静态方法的继承
 
