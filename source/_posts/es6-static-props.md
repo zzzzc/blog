@@ -1,4 +1,4 @@
-title: 使用React context踩坑记录之：ES6类的静态方法/属性的继承
+title: ES6类的静态方法/属性的继承
 date: 2017/01/05
 ---
 
