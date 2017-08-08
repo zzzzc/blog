@@ -5,11 +5,9 @@
 ## install
 1. `$ npm i hexo-cli -g`;
 2. `$ npm i`;
-3. 安装主题 `git submodule init; git submodule update`
 3. 安装主题依赖
-4. `$ hexo generate` Generates static files;
 
-## test
+## dev
 1. `$ hexo s`;
 2. open [localhost:4000](localhost:4000);
 

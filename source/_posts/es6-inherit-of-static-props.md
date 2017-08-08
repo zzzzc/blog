@@ -2,6 +2,8 @@ title: ES6类的静态方法/属性的继承
 date: 2017/01/05
 ---
 
+# ES6类的静态方法/属性的继承
+
 如果在React组件中使用context，需要定义组件类的contextTypes。如果在contextTypes中没有定义需要使用的context属性类型，那么访问该属性的值会得到undefined;
 
 当用到context的组件被另一个组件继承，父类代码如下：
