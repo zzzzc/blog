@@ -8,8 +8,7 @@
 3. 安装主题依赖
 
 ## dev
-1. `$ hexo s`;
-2. open [localhost:4000](localhost:4000);
+`$ hexo s`;
 
 ## deploy
 1. `$ hexo generate`;
